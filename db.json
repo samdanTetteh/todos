@@ -28,29 +28,5 @@
         "id": 5,
         "title": "Task 5",
         "completed": false
-    },
-    {
-        "userId": 1,
-        "id": 6,
-        "title": "Task 6",
-        "completed": false
-    },
-    {
-        "userId": 1,
-        "id": 7,
-        "title": "Task 7",
-        "completed": false
-    },
-    {
-        "userId": 1,
-        "id": 8,
-        "title": "Task 8",
-        "completed": true
-    },
-    {
-        "userId": 1,
-        "id": 9,
-        "title": "Task 9",
-        "completed": false
     }
 ]
