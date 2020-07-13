@@ -10,23 +10,5 @@
         "id": 2,
         "title": "Task 2",
         "completed": false
-    },
-    {
-        "userId": 1,
-        "id": 3,
-        "title": "Task 3",
-        "completed": false
-    },
-    {
-        "userId": 1,
-        "id": 4,
-        "title": "Task 4",
-        "completed": true
-    },
-    {
-        "userId": 1,
-        "id": 5,
-        "title": "Task 5",
-        "completed": false
     }
 ]
